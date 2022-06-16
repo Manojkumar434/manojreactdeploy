@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MatrimonyRegistrationForm-FrontEnd/static/css/main.32b0861e.css",
+    "main.js": "/MatrimonyRegistrationForm-FrontEnd/static/js/main.31c38728.js",
+    "static/media/bootstrap-icons.woff?": "/MatrimonyRegistrationForm-FrontEnd/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/bootstrap-icons.woff2?": "/MatrimonyRegistrationForm-FrontEnd/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "static/media/Metti.png": "/MatrimonyRegistrationForm-FrontEnd/static/media/Metti.c1430467c2b4cf0e64e2.png",
+    "static/media/wedding.jpg": "/MatrimonyRegistrationForm-FrontEnd/static/media/wedding.c1430467c2b4cf0e64e2.jpg",
+    "index.html": "/MatrimonyRegistrationForm-FrontEnd/index.html",
+    "main.32b0861e.css.map": "/MatrimonyRegistrationForm-FrontEnd/static/css/main.32b0861e.css.map",
+    "main.31c38728.js.map": "/MatrimonyRegistrationForm-FrontEnd/static/js/main.31c38728.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32b0861e.css",
+    "static/js/main.31c38728.js"
+  ]
+}
